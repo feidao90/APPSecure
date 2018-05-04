@@ -1,4 +1,4 @@
-# APPseacure
+# APPSecure
 4 个大点阐述了 App 的加固原理：
 
 字符串混淆
